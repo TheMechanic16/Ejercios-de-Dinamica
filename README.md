@@ -3,5 +3,3 @@ Un repositorio en el que reuniré ejercicios de dinámica resueltos con programa
 ![Alt text](https://github.com/TheMechanic16/Ejercios-de-Dinamica/blob/master/mecanica%20vectorial%2011-106/mecanica%20vectorial%2011-106.png?raw=true "Title")
 
 ![Alt text](https://github.com/TheMechanic16/Ejercios-de-Dinamica/blob/master/mecanica%20vectorial%2011-106/2_tiros.gif?raw=true "Title")
-
-![Alt text](https://github.com/TheMechanic16/Ejercios-de-Dinamica/blob/master/mecanica%20vectorial%2011-106/2_tiros.mp4?raw=true "Title")
